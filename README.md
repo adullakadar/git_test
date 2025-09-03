@@ -1,2 +1,2 @@
 # git_test
-Hello Odin!
+we learning git bababoey
